@@ -1,6 +1,5 @@
 # javascript-racingcar-precourse
 
-## 문자열 덧셈 계산
 ### 구현할 기능 목록
 
 1. 입력
